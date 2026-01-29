@@ -398,7 +398,7 @@ st.set_page_config(page_title="식단 플래너", page_icon="🍱", layout="wide
 
 st.markdown("""
 <style>
-.block-container {padding-top: 1.2rem; padding-bottom: 2rem;}
+.block-container {padding-top: 2.4rem; padding-bottom: 2rem;}
 h1, h2, h3 {letter-spacing:-0.3px;}
 .small-note {color:#777; font-size:0.9rem;}
 .badge {display:inline-block; padding:4px 10px; border-radius:999px; background:#f3f4f6; margin-right:6px; font-size:12px;}
